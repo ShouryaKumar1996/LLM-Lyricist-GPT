@@ -47,7 +47,7 @@ Response  +  detected intent  +  retrieved songs
 ## 📦 What's in the Drive folder
 
 The shared Google Drive folder `LyricistGPT/` contains everything pre-built — **no training required to run the app**:
-
+Link to folder: https://drive.google.com/drive/folders/18ShFiJqZPYTpVWO5N9kD5J_BGFyszTuH?usp=drive_link
 ```
 LyricistGPT/
 ├── LyricistGPT.ipynb        # ← the single notebook (data prep + training + inference + app)
